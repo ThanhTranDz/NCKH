@@ -9,10 +9,10 @@ Turn Right (rẽ phải), and Turn Left (Rẽ trái). Từ đó đưa ra các k�
 luận đồng thời đề xuất các cải tiến cho hệ thống.
 
 ## Thành viên:
-Trần Duy Thành 
-Nguyễn Trung Thông
-Đỗ Thị Trang 
-Vũ Văn Trí 
+Trần Duy Thành  
+Nguyễn Trung Thông  
+Đỗ Thị Trang   
+Vũ Văn Trí   
 
 ## Môi trường phát triển
 Hệ điều hành: Windows, Linux
