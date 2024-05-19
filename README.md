@@ -1,6 +1,6 @@
 # Nhận diện cử chỉ tay điều khiển xe robot
 ## Tổng quan:   
-Dự án này phát triển một hệ thống điều khiển xe robot bằng cách nhận dạng cử chỉ tay. Hệ thống sử dụng thư viện Mediapipe, được phát triển bởi Google, để nhận diện và phân loại chính xác các cử chỉ tay thành năm lệnh: Dừng, Tiến, Lùi, Rẽ phải và Rẽ trái.
+Dự án này phát triển một hệ thống điều khiển xe robot bằng cách nhận dạng cử chỉ tay. Hệ thống sử dụng thư viện Mediapipe và OpenCV để nhận diện và phân loại chính xác các cử chỉ tay thành năm lệnh: Dừng, Tiến, Lùi, Rẽ phải và Rẽ trái.
 
 ## Tác giả:
 Trần Duy Thành  
