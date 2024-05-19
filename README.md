@@ -9,7 +9,7 @@ Nguyễn Trung Thông
 Vũ Văn Trí   
 Người hướng dẫn: TS.Nguyễn Thị Bích Thủy
 
-## Môi trường phát triển
+## Môi trường
 Hệ điều hành: Windows 
 Ngôn ngữ: Python 3.7 trở lên  
 Thư viện: mediapipe, opencv-python  
